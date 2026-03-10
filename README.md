@@ -14,7 +14,6 @@ Frontend-focused developer with a strong focus on reliability, maintainability, 
 - **State Management**: Redux
 - **Backend & APIs**: Node.js, GraphQL (Apollo), REST APIs, MongoDB, PostgreSQL, Supabase, Prisma, Elasticsearch
 - **Headless CMS**: Storyblok, Prismic
-- **Testing**: Jest
 - **AI & Innovation**: Generative AI, AI-assisted software development
  **Development Toold**: Docker, Git, CI/CD, Agile, Kanban, Biome, Eslint, Vercel, Netlify
 
