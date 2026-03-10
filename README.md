@@ -6,18 +6,17 @@ I am a **Frontend Software Engineer** based in **London, UK**, with 6+ years of 
 
 Frontend-focused developer with a strong focus on reliability, maintainability, and user experience. I specialise in building accessible interfaces, implementing authentication flows, and migrating legacy projects to modern frontend solutions. Motivated by improving complex systems and contributing to products that evolve over time.
 
-### 🚀 Areas of expertise:
-- **Modern Web Development**: React, Next.js, TypeScript, JavaScript, HTML5, CSS
-- **Component & Design Systems**: Storybook, Styled Components, Figma
-- **Data & APIs**: GraphQL (Apollo), REST, Headless CMS (Storyblok, Prismic)
-- **Testing & Tooling**: Jest, Playwright, Docker, Redux, Node.js
-- **AI & Innovation**: Generative AI, AI-assisted software development
-
 ### 🛠 Technologies I work with:
-- **Frontend**: ReactJS, Next.js, TypeScript, JavaScript, HTML5, CSS, Styled Components, Tailwind CSS
-- **Backend & APIs**: Node.js, GraphQL, REST APIs, MongoDB
-- **CMS**: Storyblok, Prismic
-- **DevOps & Tools**: Docker, Storybook, Figma, Jest, Playwright
+- **Frontend**: React, Next.js, TypeScript, JavaScript, HTML5, CSS
+- **CSS Frameworks**: Styled Components, Tailwind CSS
+- **Software Architectural**: Microservices, Monolith
+- **Component & Design Systems**: Storybook, Figma
+- **State Management**: Redux
+- **Backend & APIs**: Node.js, GraphQL (Apollo), REST APIs, MongoDB, PostgreSQL, Supabase, Prisma, Elasticsearch
+- **Headless CMS**: Storyblok, Prismic
+- **Testing**: Jest
+- **AI & Innovation**: Generative AI, AI-assisted software development
+ **Development Toold**: Docker, Git, CI/CD, Agile, Kanban, Biome, Eslint, Vercel, Netlify
 
 ### 🌍 Community:
 - **Women Coding Community** – Active Member & Mentor (June 2024 – Present): Contributing to a community of 3,000+ members supporting women in tech, guiding career-shifters and beginners on their tech journey.
