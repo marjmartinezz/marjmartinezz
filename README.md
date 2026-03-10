@@ -15,7 +15,7 @@ Frontend-focused developer with a strong focus on reliability, maintainability, 
 - **Backend & APIs**: Node.js, GraphQL (Apollo), REST APIs, MongoDB, PostgreSQL, Supabase, Prisma, Elasticsearch
 - **Headless CMS**: Storyblok, Prismic
 - **AI & Innovation**: Generative AI, AI-assisted software development
- **Development Toold**: Docker, Git, CI/CD, Agile, Kanban, Biome, Eslint, Vercel, Netlify
+- **Development Toold**: Docker, Git, CI/CD, Agile, Kanban, Biome, Eslint, Vercel, Netlify
 
 ### 🌍 Community:
 - **Women Coding Community** – Active Member & Mentor (June 2024 – Present): Contributing to a community of 3,000+ members supporting women in tech, guiding career-shifters and beginners on their tech journey.
