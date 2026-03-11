@@ -23,7 +23,7 @@ Frontend-focused developer with a strong focus on reliability, maintainability, 
 
 ### 📫 How to reach me:
 - **Email**: [marjoriemartinezdev@gmail.com](mailto:marjoriemartinezdev@gmail.com)
-- **Bluesky**: [@marjmartinezz.bsky.social](https://bsky.app/profile/marjmartinezz.bsky.social)
+- **Website**: [www.marjmartinez.com](https://www.marjmartinez.com)
 - **LinkedIn**: [Marjorie Martinez](https://www.linkedin.com/in/marjorie-martinez)
 
 Thanks for visiting! Feel free to reach out if you'd like to connect or collaborate.
