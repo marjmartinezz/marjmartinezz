@@ -26,7 +26,7 @@ I enjoy diving into complex challenges, improving systems, and building things t
 - **Development Tools**: Docker, Git, CI/CD, Agile, Kanban, Biome, Eslint, Vercel, Netlify
 
 ### 🌍 Community:
-- **Women Coding Community** – Leader (previously Active Member & Mentor since June 2024): Helping lead a community of 3,000+ members supporting women in tech, and continuing to guide career-shifters and beginners on their tech journey.
+- **Women Coding Community – Leader**: Helping lead a community of 3,000+ members supporting women in tech, and continuing to guide career-shifters and beginners on their tech journey. _(Active Member & Mentor since June 2024)_
 - **ReactJS Philippines** – Co-Director (August 2019 – Present): Overseeing speaker recruitment and sponsorship outreach for a community of 52,800+ members.
 
 ### 📫 How to reach me:
