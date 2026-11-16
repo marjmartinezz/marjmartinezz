@@ -1,10 +1,18 @@
-## Hi there 👋 I'm Marjorie Martinez!
+## Hi there 👋 I'm Marj Martinez. Nice to meet you!
 
-I am a **Frontend Software Engineer** based in **London, UK**, with 6+ years of experience building web applications for multinational clients.
+I am a **Documentation Engineer II** at **[Storyblok](https://www.storyblok.com)** based in **London, UK**, with 10 years of experience as a frontend software engineer building accessible web applications. Long enough to have seen a few trends come and go, and still curious enough to keep learning new ones.
+
+### 💼 Currently:
+
+- **Documentation Engineer II @ Storyblok**: Helping developers get the most out of Storyblok's headless CMS through clear, accurate, and developer-friendly documentation.
 
 ### 👩‍💻 About me:
 
-Frontend-focused developer with a strong focus on reliability, maintainability, and user experience. I specialise in building accessible interfaces, implementing authentication flows, and migrating legacy projects to modern frontend solutions. Motivated by improving complex systems and contributing to products that evolve over time.
+I've worked across different companies and teams, from small, scrappy setups to larger, more structured environments. I've dealt with everything from legacy systems to modern architectures, refactoring messy codebases into something more maintainable and scalable, working on large interfaces and tackling complex problems along the way.
+
+I value writing simple, clean, and maintainable code, not just for myself, but for the people I work with. Communication matters just as much as code: speaking up, sharing ideas, asking questions (there's really no such thing as a "noob" question), and making sure we're all aligned. Most importantly, I try to keep users at the center of every solution, understanding the **"WHY"** behind what we're building and making sure it actually helps.
+
+I enjoy diving into complex challenges, improving systems, and building things that continue to grow and deliver long-term value for users.
 
 ### 🛠 Technologies I work with:
 - **Frontend**: React, Next.js, TypeScript, JavaScript, HTML5, CSS
@@ -15,7 +23,7 @@ Frontend-focused developer with a strong focus on reliability, maintainability, 
 - **Backend & APIs**: Node.js, GraphQL (Apollo), REST APIs, MongoDB, PostgreSQL, Supabase, Prisma, Elasticsearch
 - **Headless CMS**: Storyblok, Prismic
 - **AI & Innovation**: Generative AI, AI-assisted software development
-- **Development Toold**: Docker, Git, CI/CD, Agile, Kanban, Biome, Eslint, Vercel, Netlify
+- **Development Tools**: Docker, Git, CI/CD, Agile, Kanban, Biome, Eslint, Vercel, Netlify
 
 ### 🌍 Community:
 - **Women Coding Community** – Active Member & Mentor (June 2024 – Present): Contributing to a community of 3,000+ members supporting women in tech, guiding career-shifters and beginners on their tech journey.
