@@ -6,6 +6,11 @@ I am a **Documentation Engineer II** at **[Storyblok](https://www.storyblok.com)
 
 - **Documentation Engineer II @ Storyblok**: Helping developers get the most out of Storyblok's headless CMS through clear, accurate, and developer-friendly documentation.
 
+### ✨ Check out on my website:
+
+- **🧩 [Tama ba?](https://www.marjmartinez.com/tama-ba)**: A daily grammar quiz. Answer five quick questions in about two minutes and decide if the underlined word is correct or needs fixing. _"Tama ba?"_ is Tagalog for _"Is it right?"_
+- **🗓️ [Timeline](https://www.marjmartinez.com/timeline)**: The moments that got me here, newest first. Career, community, learning, and personal milestones from 2014 to today.
+
 ### 👩‍💻 About me:
 
 I've worked across different companies and teams, from small, scrappy setups to larger, more structured environments. I've dealt with everything from legacy systems to modern architectures, refactoring messy codebases into something more maintainable and scalable, working on large interfaces and tackling complex problems along the way.
